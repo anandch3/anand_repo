@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/cart": "pages/cart.html",
+  "/": "pages/index.html",
+  "/products/[category_id]/[subcategory_id]": "pages/products/[category_id]/[subcategory_id].html",
+  "/products/category/[id]": "pages/products/category/[id].html",
+  "/subcategories/[id]": "pages/subcategories/[id].html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
